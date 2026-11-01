@@ -1,0 +1,6 @@
+# 测试运行产物
+test/_fixture/
+
+# Python 缓存
+__pycache__/
+*.pyc
